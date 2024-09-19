@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on something new and exciting.
-- 🌱 I’m currently learning HTML and CSS.
-- 💬 Ask me about HTML and CSS.
+- 🌱 I’m currently learning JavaScript, Python, HTML and CSS.
+- 💬 Ask me about my journey so far.
 <!--
 Here are some ideas to get you started:
 **JuanV3/JuanV3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
